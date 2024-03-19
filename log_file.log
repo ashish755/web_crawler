@@ -1,0 +1,35 @@
+2024-03-19 23:18:31,589 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 1
+2024-03-19 23:18:41,040 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 2
+2024-03-19 23:18:49,032 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 3
+2024-03-19 23:18:57,427 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 4
+2024-03-19 23:19:07,458 - web_crawler.py - [Line 79] - INFO - Creating table
+2024-03-19 23:19:07,481 - web_crawler.py - [Line 93] - INFO - Storing in database
+2024-03-20 00:19:53,241 - web_crawler.py - [Line 28] - INFO - Fetching data for page number: 1
+2024-03-20 00:20:02,029 - web_crawler.py - [Line 28] - INFO - Fetching data for page number: 2
+2024-03-20 00:20:09,683 - web_crawler.py - [Line 28] - INFO - Fetching data for page number: 3
+2024-03-20 00:20:17,142 - web_crawler.py - [Line 28] - INFO - Fetching data for page number: 4
+2024-03-20 00:24:08,930 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 1
+2024-03-20 00:24:17,704 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 2
+2024-03-20 00:24:26,650 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 3
+2024-03-20 00:24:35,742 - web_crawler.py - [Line 17] - INFO - Fetching data for page number: 4
+2024-03-20 00:24:45,026 - web_crawler.py - [Line 80] - INFO - Creating table
+2024-03-20 00:24:45,035 - web_crawler.py - [Line 94] - INFO - Storing in database
+2024-03-20 00:28:38,385 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 1
+2024-03-20 00:28:47,176 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 2
+2024-03-20 00:28:55,333 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 3
+2024-03-20 00:29:03,816 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 4
+2024-03-20 00:29:24,882 - web_crawler.py - [Line 81] - INFO - Creating table
+2024-03-20 00:29:24,888 - web_crawler.py - [Line 95] - INFO - Storing in database
+2024-03-20 00:30:04,979 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 1
+2024-03-20 00:30:13,513 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 2
+2024-03-20 00:30:40,864 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 3
+2024-03-20 00:34:25,182 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 1
+2024-03-20 00:34:34,982 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 2
+2024-03-20 00:34:43,427 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 3
+2024-03-20 00:34:52,246 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 4
+2024-03-20 00:35:03,363 - web_crawler.py - [Line 81] - INFO - Creating table
+2024-03-20 00:35:03,369 - web_crawler.py - [Line 95] - INFO - Storing in database
+2024-03-20 00:36:06,444 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 1
+2024-03-20 00:36:15,000 - web_crawler.py - [Line 82] - INFO - Creating table
+2024-03-20 00:36:15,001 - web_crawler.py - [Line 96] - INFO - Storing in database
+2024-03-20 00:38:00,778 - web_crawler.py - [Line 18] - INFO - Fetching data for page number: 1

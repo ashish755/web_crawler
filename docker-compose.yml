@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  api:
+    build: ./
+    restart: always
+    networks:
+      - backend
+    env_file:
+      - .env
+    ports:
+      - "8009:8009"
+    volumes:
+      - ./:/app/
+  postgres_db:
+    restart: always
+    image: postgres:14
+    volumes:
+      - postgres_product_data:/var/lib/postgresql/data/
+    env_file:
+      - .env
+    networks:
+      - backend
+    ports:
+      - 5437:5432
+
+networks:
+  backend:
+
+volumes:
+  postgres_product_data:
